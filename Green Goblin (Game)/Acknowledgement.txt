@@ -1,0 +1,5 @@
+This project would never have been possible without the great learning material put forth by 'Tech With Tim':
+- GitHub (https://github.com/techwithtim)
+- YouTube (https://www.youtube.com/c/TechWithTim)
+
+Thanks to Tim for maing this happen!
