@@ -1,0 +1,32 @@
+Modbus as an “Open Protocol”
+Depending on the process automation equipment manufacturer, a very specific or proprietary language is used or it may be a language that is commonly open to the industry. It is these open protocols many manufacturers adapt to easily integrate their products in a market.
+An “Open protocol” means the specifications are published and may be used by anyone freely or by license.
+Open protocols are usually backed by a combination of corporations, user groups, professional societies, and governments. This provides users with a much wider choice of devices or systems that can be utilized to meet specific applications.
+Advantages of open protocols include support by multiple manufacturers, software vendors, and install or service organizations, active community groups for support, the ability to stay current and add capabilities in the future.
+The Modbus communication protocol is the oldest and by far the most popular automation protocol in the field of process automation and SCADA (Supervisory Control and Data Acquisition).
+Modbus is a communications protocol published by Modicon in 1979 for use with its Programmable Logic Controllers (PLCs). Modicon is now owned by Schneider Electric.
+Modbus provides a common language for devices and equipment to communicate with one and another.
+For example, Modbus enables devices on a system that measures temperature and humidity connected on the same network to communicate the results to a supervisory computer or PLC.
+
+
+Several versions of the Modbus protocol exist for the serial port and Ethernet and the most common are:
+– Modbus RTU
+– Modbus ASCII
+– Modbus TCP
+– Modbus Plus
+Modicon published the Modbus communication interface for a multidrop network based on a Master-Slave architecture.
+Communication between the Modbus nodes is achieved with send request and read response type messages.
+Modbus communicates over several types of physical media such as:
+– Serial RS-232
+– Serial RS-485
+– Serial RS-422
+– Ethernet
+The original Modbus interface ran on RS-232 serial communication, but most of the later Modbus implementations use RS-485 because it allowed:
+– Longer distances.
+– Higher speeds.
+– The possibility of multiple devices on a single multi-drop network.
+Master-Slave Modbus communication over serial RS-485 physical media using two-wire transmit and receive connections.
+
+PLC stands for “Programmable Logic Controller”. A PLC is a computer specially designed to operate reliably under harsh industrial environments – 
+such as extreme temperatures, wet, dry, and/or dusty conditions. PLCs are used to automate industrial processes such as a manufacturing plant’s assembly line, 
+an ore processing plant, or a wastewater treatment plant.
