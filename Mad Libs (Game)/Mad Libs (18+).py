@@ -12,7 +12,7 @@ while (loop < 10):
     print("I love" , action)
     print("But what I love more than" , action , "is" , dirtyWord)
     print("See the thing is" , action , "can be done anywhere. But," , dirtyWord , "can only be enjoyed in" , place)
-    print("And this is what makes" , place , "a perfect destination!")
+    print("And this is what makes" , place , "a perfect place!")
     print("The last time I recall" , action , "my" , relationship , "was" , number , "light years ago")
     print("But our" , dirtyWord , "days are as old as yesterday")
     print("No wonder my joints are sore!")
