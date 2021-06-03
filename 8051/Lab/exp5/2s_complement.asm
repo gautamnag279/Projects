@@ -1,0 +1,6 @@
+MOV A, #01H
+CPL A
+MOV 30H, A
+INC A
+MOV 31H, A
+JMP $

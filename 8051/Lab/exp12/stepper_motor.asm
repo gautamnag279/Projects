@@ -1,0 +1,4 @@
+UP: SETB P3.1
+CLR P3.0
+NOP
+JMP UP

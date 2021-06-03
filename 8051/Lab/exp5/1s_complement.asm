@@ -1,0 +1,4 @@
+MOV A, #64
+CPL A
+MOV R2, A
+JMP $
